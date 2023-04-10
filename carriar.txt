@@ -1,12 +1,11 @@
-js basic
-js opp
-php basic
-php oop
+php_beginer
+php_oop
+dom_manipulation
+js_basic_ostad_b3
+filesytem_php
+db_design
 
-nextjs
-laravel
+react_basic
 
-dasyUi
-
-
-https://morioh.com/p/0f3d50e7fe69?f=5cb7d89d660c8335951ca454&fbclid=IwAR0yOCaAjMDWhMtrVW-bUYjt0ECQPDxRaU0-OgCVhoXuKGP4qPIE4-kUAMc
+javascript_oop
+nextjs basic
